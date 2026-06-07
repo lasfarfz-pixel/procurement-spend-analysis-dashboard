@@ -70,7 +70,7 @@ This dashboard demonstrates how procurement data can be transformed into actiona
 * Spend management
 * Decision-making support
 
-* This project demonstrates the ability to transform procurement data into actionable business insights that support cost optimization, supplier management, and strategic sourcing decisions.
+This project demonstrates the ability to transform procurement data into actionable business insights that support cost optimization, supplier management, and strategic sourcing decisions.
 
 ## Key Findings & Recommendations
 

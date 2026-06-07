@@ -66,6 +66,4 @@ This dashboard demonstrates how procurement data can be transformed into actiona
 
 **Fatima-Ezzahra Lasfar**
 
-SAP Certified Consultant | Procurement & Supply Chain Specialist | Data Analytics Student
 
-GitHub: https://github.com/lasfarfz-pixel

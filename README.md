@@ -6,6 +6,14 @@ This project showcases an interactive Power BI dashboard designed to analyze pro
 
 The dashboard helps identify spending trends, supplier performance, savings opportunities, and procurement efficiency metrics through data visualization and business intelligence techniques.
 
+## Project Objectives
+
+- Monitor procurement spending across suppliers and categories
+- Identify opportunities for cost reduction and savings
+- Evaluate supplier performance and purchasing efficiency
+- Track lead times and payment status
+- Support strategic procurement decision-making
+
 ## Dashboard Preview
 
 ![Procurement Spend Analysis Dashboard](procurement-spend-dashboard.png)
@@ -61,6 +69,8 @@ This dashboard demonstrates how procurement data can be transformed into actiona
 * Lead time monitoring
 * Spend management
 * Decision-making support
+
+* This project demonstrates the ability to transform procurement data into actionable business insights that support cost optimization, supplier management, and strategic sourcing decisions.
 
 ## Key Findings & Recommendations
 

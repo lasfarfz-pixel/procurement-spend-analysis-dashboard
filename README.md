@@ -62,6 +62,28 @@ This dashboard demonstrates how procurement data can be transformed into actiona
 * Spend management
 * Decision-making support
 
+## Key Findings & Recommendations
+
+### Key Findings
+
+* Raw Materials and Machinery represented the largest procurement spending categories.
+* A small number of suppliers accounted for a significant share of total procurement spend.
+* Lead times varied considerably between suppliers, indicating opportunities for supplier performance improvement.
+* Most procurement transactions were successfully processed and paid, while a smaller proportion remained pending or overdue.
+
+### Recommendations
+
+1. Consolidate procurement volume with high-performing suppliers to improve negotiation leverage and obtain better pricing conditions.
+
+2. Implement supplier scorecards to monitor procurement spend, lead times, delivery reliability, and cost-saving performance.
+
+3. Review high-spend categories regularly to identify cost-reduction opportunities and optimize purchasing strategies.
+
+4. Monitor overdue payments proactively to strengthen supplier relationships and reduce operational risks.
+
+5. Establish procurement KPIs and dashboards for continuous performance tracking and data-driven decision-making.
+
+
 ## Author
 
 **Fatima-Ezzahra Lasfar**
